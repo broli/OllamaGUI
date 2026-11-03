@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OllamaGUI
+Comment=Custom Python desktop application to manage and interact with a local Ollama instance.
+Exec=/home/carlos/Projects/Antigravity/OllamaGUI/.venv/bin/python /home/carlos/Projects/Antigravity/OllamaGUI/main.py
+Icon=/home/carlos/.local/share/OllamaGUI/ollama-vector-logo-seeklogo/ollama-seeklogo.png
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=true
